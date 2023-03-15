@@ -1,0 +1,6 @@
+C:\Users\yache\OneDrive\Рабочий стол\Компилятор\Компилятор\Компилятор\bin\Debug\Компилятор.exe.config
+C:\Users\yache\OneDrive\Рабочий стол\Компилятор\Компилятор\Компилятор\bin\Debug\Компилятор.exe
+C:\Users\yache\OneDrive\Рабочий стол\Компилятор\Компилятор\Компилятор\bin\Debug\Компилятор.pdb
+C:\Users\yache\OneDrive\Рабочий стол\Компилятор\Компилятор\Компилятор\obj\Debug\Компилятор.csprojAssemblyReference.cache
+C:\Users\yache\OneDrive\Рабочий стол\Компилятор\Компилятор\Компилятор\obj\Debug\Компилятор.exe
+C:\Users\yache\OneDrive\Рабочий стол\Компилятор\Компилятор\Компилятор\obj\Debug\Компилятор.pdb
